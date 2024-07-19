@@ -1,0 +1,1 @@
+# tastedit-django
